@@ -1,0 +1,17 @@
+C:\Users\PMYLS\source\repos\GalaxyShooter\obj\Debug\net8.0\GalaxyShooterDSL.csproj.AssemblyReference.cache
+C:\Users\PMYLS\source\repos\GalaxyShooter\obj\Debug\net8.0\GalaxyShooterDSL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMYLS\source\repos\GalaxyShooter\obj\Debug\net8.0\GalaxyShooterDSL.AssemblyInfoInputs.cache
+C:\Users\PMYLS\source\repos\GalaxyShooter\obj\Debug\net8.0\GalaxyShooterDSL.AssemblyInfo.cs
+C:\Users\PMYLS\source\repos\GalaxyShooter\obj\Debug\net8.0\GalaxyShooterDSL.csproj.CoreCompileInputs.cache
+C:\Users\PMYLS\source\repos\GalaxyShooter\bin\Debug\net8.0\GalaxyShooterDSL.exe
+C:\Users\PMYLS\source\repos\GalaxyShooter\bin\Debug\net8.0\GalaxyShooterDSL.deps.json
+C:\Users\PMYLS\source\repos\GalaxyShooter\bin\Debug\net8.0\GalaxyShooterDSL.runtimeconfig.json
+C:\Users\PMYLS\source\repos\GalaxyShooter\bin\Debug\net8.0\GalaxyShooterDSL.dll
+C:\Users\PMYLS\source\repos\GalaxyShooter\bin\Debug\net8.0\GalaxyShooterDSL.pdb
+C:\Users\PMYLS\source\repos\GalaxyShooter\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\PMYLS\source\repos\GalaxyShooter\obj\Debug\net8.0\GalaxySh.C092EB6A.Up2Date
+C:\Users\PMYLS\source\repos\GalaxyShooter\obj\Debug\net8.0\GalaxyShooterDSL.dll
+C:\Users\PMYLS\source\repos\GalaxyShooter\obj\Debug\net8.0\refint\GalaxyShooterDSL.dll
+C:\Users\PMYLS\source\repos\GalaxyShooter\obj\Debug\net8.0\GalaxyShooterDSL.pdb
+C:\Users\PMYLS\source\repos\GalaxyShooter\obj\Debug\net8.0\GalaxyShooterDSL.genruntimeconfig.cache
+C:\Users\PMYLS\source\repos\GalaxyShooter\obj\Debug\net8.0\ref\GalaxyShooterDSL.dll
