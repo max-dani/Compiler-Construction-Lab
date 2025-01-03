@@ -1,0 +1,35 @@
+danish_12 - Valid
+Letters: 6 (Uppercase: 0, Lowercase: 6), Digits: 2, Underscores: 1
+Generated Password: J4$IQ@y9tos! (Strength: Strong)
+
+
+asfand_13 - Valid
+Letters: 6 (Uppercase: 0, Lowercase: 6), Digits: 2, Underscores: 1
+Generated Password: !sx9CNr5wH^l (Strength: Strong)
+
+
+asim123 - Valid
+Letters: 4 (Uppercase: 0, Lowercase: 4), Digits: 3, Underscores: 0
+Generated Password: 1@^qBBj*4GJX (Strength: Strong)
+
+
+Summary:
+Total Usernames: 3
+Valid Usernames: 3
+Invalid Usernames: 0
+
+
+_asim238 - Invalid
+Error: Username must start with a letter
+
+
+asfand@ - Invalid
+Error: Username can only contain letters, numbers, and underscores
+
+
+Summary:
+Total Usernames: 2
+Valid Usernames: 0
+Invalid Usernames: 2
+
+

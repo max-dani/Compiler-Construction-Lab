@@ -1,0 +1,20 @@
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\bin\Debug\net8.0-windows\CC Lab terminal Question 6.exe
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\bin\Debug\net8.0-windows\CC Lab terminal Question 6.deps.json
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\bin\Debug\net8.0-windows\CC Lab terminal Question 6.runtimeconfig.json
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\bin\Debug\net8.0-windows\CC Lab terminal Question 6.dll
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\bin\Debug\net8.0-windows\CC Lab terminal Question 6.pdb
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\CC Lab terminal Question 6_MarkupCompile.cache
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\CC Lab terminal Question 6_MarkupCompile.lref
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\CC Lab terminal Question 6.g.resources
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\CC Lab terminal Question 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\CC Lab terminal Question 6.AssemblyInfoInputs.cache
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\CC Lab terminal Question 6.AssemblyInfo.cs
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\CC Lab terminal Question 6.csproj.CoreCompileInputs.cache
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\CC Lab terminal Question 6.dll
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\refint\CC Lab terminal Question 6.dll
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\CC Lab terminal Question 6.pdb
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\CC Lab terminal Question 6.genruntimeconfig.cache
+C:\Users\PMYLS\source\repos\CC Lab terminal Question 6\obj\Debug\net8.0-windows\ref\CC Lab terminal Question 6.dll
