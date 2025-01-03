@@ -1,0 +1,10 @@
+D:\Tiny-Compiler-master\Tiny-Compiler-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Tiny-Compiler-master\Tiny-Compiler-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Tiny-Compiler-master\Tiny-Compiler-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Tiny-Compiler-master\Tiny-Compiler-master\WindowsFormsApplication1\obj\Debug\TinyCompiler.csproj.AssemblyReference.cache
+D:\Tiny-Compiler-master\Tiny-Compiler-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Tiny-Compiler-master\Tiny-Compiler-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Tiny-Compiler-master\Tiny-Compiler-master\WindowsFormsApplication1\obj\Debug\TinyCompiler.csproj.GenerateResource.cache
+D:\Tiny-Compiler-master\Tiny-Compiler-master\WindowsFormsApplication1\obj\Debug\TinyCompiler.csproj.CoreCompileInputs.cache
+D:\Tiny-Compiler-master\Tiny-Compiler-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Tiny-Compiler-master\Tiny-Compiler-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
