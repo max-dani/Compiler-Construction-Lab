@@ -1,0 +1,14 @@
+C:\Users\PMYLS\source\repos\CCLab1\bin\Debug\net8.0\CCLab1.exe
+C:\Users\PMYLS\source\repos\CCLab1\bin\Debug\net8.0\CCLab1.deps.json
+C:\Users\PMYLS\source\repos\CCLab1\bin\Debug\net8.0\CCLab1.runtimeconfig.json
+C:\Users\PMYLS\source\repos\CCLab1\bin\Debug\net8.0\CCLab1.dll
+C:\Users\PMYLS\source\repos\CCLab1\bin\Debug\net8.0\CCLab1.pdb
+C:\Users\PMYLS\source\repos\CCLab1\obj\Debug\net8.0\CCLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMYLS\source\repos\CCLab1\obj\Debug\net8.0\CCLab1.AssemblyInfoInputs.cache
+C:\Users\PMYLS\source\repos\CCLab1\obj\Debug\net8.0\CCLab1.AssemblyInfo.cs
+C:\Users\PMYLS\source\repos\CCLab1\obj\Debug\net8.0\CCLab1.csproj.CoreCompileInputs.cache
+C:\Users\PMYLS\source\repos\CCLab1\obj\Debug\net8.0\CCLab1.dll
+C:\Users\PMYLS\source\repos\CCLab1\obj\Debug\net8.0\refint\CCLab1.dll
+C:\Users\PMYLS\source\repos\CCLab1\obj\Debug\net8.0\CCLab1.pdb
+C:\Users\PMYLS\source\repos\CCLab1\obj\Debug\net8.0\CCLab1.genruntimeconfig.cache
+C:\Users\PMYLS\source\repos\CCLab1\obj\Debug\net8.0\ref\CCLab1.dll
